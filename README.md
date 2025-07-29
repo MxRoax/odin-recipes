@@ -6,3 +6,6 @@ Components:
 Home page (Index)
 Relative and Absolute links
 Proper File Organization
+
+Attribution:
+House designed by Alex S. Lakas from The Noun Project, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
